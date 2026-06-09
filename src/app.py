@@ -46,7 +46,7 @@ activities = {
         "participants": ["james@mergington.edu"]
     },
     "Tennis Club": {
-        "description": "Learn tennis technique and compete in tournaments",
+        "description": "Learn tennis techniques and compete in tournaments",
         "schedule": "Tuesdays, Thursdays, 3:30 PM - 5:00 PM",
         "max_participants": 10,
         "participants": ["sarah@mergington.edu"]
